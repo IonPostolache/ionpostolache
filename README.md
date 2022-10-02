@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ion Postolache
 - 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently working as a Python Software Developer.
 - 💞️ I’m looking to collaborate on Python/ML projects.
 - 📫 You can reach me on email ion_postolache00 at yah.o.o dot com.
 
