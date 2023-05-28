@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ion Postolache
-- 👀 I’m interested in Machine Learning.
 - 🌱 I’m currently working as a Python Software Developer.
 - 📫 You can reach me on email ion_postolache00[at]yahoo[dot]com.
 
