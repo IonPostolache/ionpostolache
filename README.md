@@ -1,5 +1,5 @@
 - Hi, I’m Ion Postolache
-- I’m a Python Developer Transitioning to Blockchain.
+- I’m a Python Developer transitioning to Blockchain.
 
 <!---
 ionpostolache/ionpostolache is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
